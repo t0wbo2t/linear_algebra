@@ -30,5 +30,7 @@
 *.exe
 *.out
 *.app
-./build/
-./glm/
+
+# Custom Folders
+build
+glm
